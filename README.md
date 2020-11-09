@@ -4,6 +4,22 @@ A simple no-fuss selfhostable password generator.
 
 Built originally with an easy-to-use lightweight selfhosted password generator in mind.
 
+## Features
+
+- Generates random secure passwords
+- Basic layout responsiveness
+- Copy to clipboard
+
+## Future development
+
+If you wish to contribute and develop any of the following before I do feel free to fork the repo and make a PR.
+
+- More secure passwords
+- Adjust password length
+- Fully responsive layout
+- Nicer layout
+- Remove the need for jquery?
+
 ## Installation
 
 This shouldn't even be necessary to read if you've hosted a simple php website before.
