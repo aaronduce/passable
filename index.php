@@ -1,6 +1,6 @@
 <?php 
 session_start();
-$generatedPass = implode("",array_map(create_function('$s','return substr($s,mt_rand(0,strlen($s)),1);'),array_fill(0,16,"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")));
+$generatedPass = implode("",array_map(create_function('$s','return substr($s,mt_rand(0,strlen($s)),1);'),array_fill(0,16,"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789&^%!*@~#\/:;")));
 ?>
 
 <html lang="en">
