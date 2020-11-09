@@ -1,0 +1,55 @@
+body {
+    background: rgb(92,37,141);
+    background: linear-gradient(73deg, rgba(92,37,141,1) 0%, rgba(55,55,171,1) 45%, rgba(67,137,162,1) 100%); 
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+div.header {
+    padding-top: 6rem;
+    text-align: center;
+}
+
+div.passarea {
+    text-align: center;
+    margin-top: 4rem;
+}
+
+div.passbox {
+    background: #eee;
+    color: #111;
+    padding: 20px;
+    width: 400px;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+
+button.passareabtn {
+    height: 61px;
+    width: 61px;
+    display: inline-block;
+    vertical-align: top;
+    border: none;
+    margin: 0;
+    background-color: #eee;
+    color: #444;
+    text-decoration: none;
+    font-size: 1rem;
+    cursor: pointer;
+    text-align: center;
+    transition: background 250ms ease-in-out, 
+                transform 150ms ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+div.footer {
+    margin-top: 4rem;
+    text-align: center;
+}
