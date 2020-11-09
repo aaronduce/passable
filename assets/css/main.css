@@ -22,7 +22,7 @@ div.passbox {
     background: #eee;
     color: #111;
     padding: 20px;
-    width: 400px;
+    width: 300px;
     align-self: center;
     margin-left: auto;
     margin-right: auto;
@@ -52,4 +52,26 @@ button.passareabtn {
 div.footer {
     margin-top: 4rem;
     text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: currentColor;
+}
+
+div.passareabtns {
+    display: inline-block;
+}
+
+@media screen and (max-width: 487px) {
+    div.passareabtns {
+        display: block;
+        padding-top: 10px;
+    }
+}
+
+@media screen and (max-width: 355px) {
+    div.passbox {
+        width: auto;
+    }
 }

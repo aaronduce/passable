@@ -23,10 +23,8 @@ Please report any issues or improvements you think could be made in the issues t
 
 ## Credits
 
-@aaronduce 
+[Aaron Duce](https://github.com/aaronduce)
 
-@TBC
+[Chris Kane](https://github.com/chriskanedev)
 
-@chriskanedev
-
-@steveschoger - for heroicons.
+[Heroicons by Steve Schoger and the Tailwind Labs team](https://heroicons.com/)
