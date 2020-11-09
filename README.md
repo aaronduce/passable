@@ -4,6 +4,10 @@ A simple no-fuss selfhostable password generator.
 
 Built originally with an easy-to-use lightweight selfhosted password generator in mind.
 
+## Hosted version
+
+Coming soon.
+
 ## Features
 
 - Generates random secure passwords
