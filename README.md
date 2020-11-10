@@ -19,7 +19,8 @@ Coming soon.
 If you wish to contribute and develop any of the following before I do feel free to fork the repo and make a PR.
 
 - More secure passwords
-- Modes (Memorable passwords such as generista.com does)
+- Modes (Memorable passwords such as generista.com does, Dice words like rempe.us/diceware/#eff)
+- Homeassistant addon? To look into how these work and whether this can be implemented/developed by myself.
 - Adjust password length
 - Fully responsive layout
 - Nicer layout
